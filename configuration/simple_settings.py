@@ -1,0 +1,5 @@
+
+APPLICATION_NAME="steaming_app"
+KAFKA_BROKER = "localhost:29092"
+KAFKA_INPUT_TOPIC = "iot"
+KAFKA_CONSUMER_OFFSET_RESET = "latest"

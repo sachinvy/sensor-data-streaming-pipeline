@@ -1,0 +1,1 @@
+%SPARK_HOME%\bin\spark-submit.cmd --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.2.0,com.datastax.spark:spark-cassandra-connector_2.12:3.1.0 C:\Users\sachin\Documents\sachin\Mtech-davv\Sem_1_project\stream-sensor-data\src\spark_streaming_job.py
