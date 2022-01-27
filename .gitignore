@@ -3,3 +3,4 @@ venv/*
 *.iml
 data/*
 */*/*.pyc
+Streaming processing of sensor data.docx
