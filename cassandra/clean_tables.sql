@@ -1,0 +1,3 @@
+truncate sensor_data_history;
+truncate sensor_stats_history;
+truncate sensor_image_history;

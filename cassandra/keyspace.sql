@@ -1,0 +1,1 @@
+CREATE KEYSPACE streaming_data WITH REPLICATION = { 'class' : 'NetworkTopologyStrategy', 'datacenter1' : 1 };
